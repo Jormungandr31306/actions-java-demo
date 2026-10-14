@@ -1,4 +1,5 @@
-public static void Main{
-  Systen.out.println("Hello from GitHub Actions");
-return
+public class HelloJava{
+  public static void main(String[] args){
+    System.out.println("Hello from GitHub Actions")
+  }
 }
